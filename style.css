@@ -7,12 +7,15 @@
   }
   
   p {
-    background-color: #bfbfbf;
+    background-color: lightgrey;
     border: 2px solid black;
     height: 150px;
     margin-right: 10px;
     padding: 40px 10px 5px 10px;
-    overflow: hidden;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: black;
+  overflow: auto;
+  text-align:left;
   }
   
   
